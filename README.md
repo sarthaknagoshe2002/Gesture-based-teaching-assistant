@@ -29,7 +29,7 @@ GESTURES:
 
 
 
-|No. |GESTURE||OPERATION|
+|No. |GESTURE|OPERATION|
 | - | - | :- | - |
 |1 |![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.001.png?raw=true)|<p>- This gesture will activate the truly wireless mouse. </p><p>- Move your hand to move the mouse on the screen maintaining the position of the fingers same as the image besides. </p><p>- While using the truly wireless mouse make sure your hand is completely visible in the frame captured by the camera till the wrist. </p>|
 |2 |![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.002.png?raw=true)|<p>- while the truly wireless mouse is activated raise your middle finger to stop the mouse at a required position. </p><p>- Make sure there is good amount of space between both the fingers as show in the image. </p>|
