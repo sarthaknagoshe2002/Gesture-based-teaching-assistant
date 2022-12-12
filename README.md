@@ -2,8 +2,6 @@
 
 BY TEAM SAYRY
 
-~  Sarthak Nagoshe, Ananya Jadhav,  Yash Khandebharad, Rucha Dhage,  Yashodhan Deshmukh  (AI&DS batch2024)  
-
 Checklist: 
 
 1. Check whether the folder contains all the required files which include aimouse.exe, contact\_us.exe, a folder named as ‘images’, word.bat, ppt.bat and paint.bat. 
