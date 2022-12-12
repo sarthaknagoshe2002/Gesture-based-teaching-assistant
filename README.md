@@ -41,7 +41,8 @@ GESTURES:
 |8|![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.008.png?raw=true)||<p>- Performed a wrong operation?? Want to undo what you just did?? Don’t worry we have the solution for it too!!! </p><p>- Just raise and stick your index, middle and ring finger close and bingo!! The undo operation is performed </p><p>- Maintain this gesture for a longer duration if you want to perform multiple undo </p>|
 |9 |![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.009.png?raw=true)||<p>- Replicate the gesture shown in image besides to save a document, power point presentation, excel sheet or any particular document  </p><p>- This operation won’t completely perform the save operation  </p><p>- You will have to still enter the name of the file and select the location to complete the save operation </p>|
 |10|![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.010.png?raw=true)||<p>- Raising your thumb and little finger will initiate the voice assistant </p><p>- Whenever the voice assistant starts it will say “speak” </p><p>- Give your command verbally as </p><p>soon as the voice assistant says “speak” </p><p>- The voice assistant can only open word pad, paint or power point </p><p>- You just have to say “please open Microsoft paint” or “please open Microsoft word” or “please open Microsoft power point presentation” or “open ppt” or “open slides” </p><p>- The voice assistant is smart enough to understand even one-word commands like “word” or “paint” or “ppt” or “slides” </p><p>- The voice assistant remains active for very short duration, if you’re not able complete your command in this duration then repeat this gesture again </p>|
-\*  
+
+
 If you’re having any problem in: - 
 
 - understanding this guide 
