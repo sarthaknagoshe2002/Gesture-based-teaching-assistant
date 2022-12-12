@@ -1,7 +1,7 @@
 ﻿**GESTURE BASED TEACHING ASSISTANT GUIDE**
 
 BY TEAM SAYRY
-
+**NOTE:- This project contains python exe files and can only be used for Demonstration**
 Checklist: 
 
 1. Check whether the folder contains all the required files which include aimouse.exe, contact\_us.exe, a folder named as ‘images’, word.bat, ppt.bat and paint.bat. 
