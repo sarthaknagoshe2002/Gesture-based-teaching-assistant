@@ -29,8 +29,8 @@ GESTURES:
 
 
 
-|No. |GESTURE||OPERATION|
-| - | - | :- | - |
+|No. |GESTURE|OPERATION|
+| - | - | - |
 |1 |![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.001.png?raw=true)||<p>- This gesture will activate the truly wireless mouse. </p><p>- Move your hand to move the mouse on the screen maintaining the position of the fingers same as the image besides. </p><p>- While using the truly wireless mouse make sure your hand is completely visible in the frame captured by the camera till the wrist. </p>|
 |2 |![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.002.png?raw=true)||<p>- while the truly wireless mouse is activated raise your middle finger to stop the mouse at a required position. </p><p>- Make sure there is good amount of space between both the fingers as show in the image. </p>|
 |3 |![](https://github.com/sarthaknagoshe2002/Gesture-based-teaching-assistant/blob/main/Aspose.Words.0c89c8bd-e5e9-494b-a28f-10a8a279f6b2.003.png?raw=true)||<p>- After bringing the mouse to the desired position by following both the above steps slowly reduce the distance between both the finger to perform the click operation </p><p>- I.e., by raising the index and middle finger and bringing them together you can perform the click operation </p><p>- Make sure you don’t maintain this gesture for too long as it will result in multiple click </p><p>- Using the above point you can perform double, triple or multiple clicks   </p>|
