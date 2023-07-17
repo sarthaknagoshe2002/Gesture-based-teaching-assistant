@@ -1,7 +1,5 @@
 ﻿**GESTURE BASED TEACHING ASSISTANT GUIDE**
 
-BY TEAM SAYRY
-
 Checklist: 
 
 1. Check whether the folder contains all the required files which include aimouse.exe, contact\_us.exe, a folder named as ‘images’, word.bat, ppt.bat and paint.bat. 
@@ -51,10 +49,10 @@ If you’re having any problem in: -
 - performing operations by gesture 
 - using the voice assistant 
 
-Then please contact Team SAYRY by running the application named as ‘contact\_us’!! 
+Then Please contact us by running the application named as ‘contact\_us’!! 
 
 Disclaimer: 
 
-We I.e., Team SAYRY as a whole or any Member individually is/are not responsible for any harm caused to files or data of the device the application is being used in. 
+I/We is/are not responsible for any harm caused to files or data of the device the application is being used in. 
 
 We strongly recommend to not run this application in any device containing crucial data or files. 
